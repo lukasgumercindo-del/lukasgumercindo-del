@@ -1,4 +1,6 @@
-# Lucas Gumercindo
+<p align="center">
+  <img src="banner.svg" alt="Lucas Gumercindo - Data Analytics & Analytics Engineering" width="100%">
+</p>
 
 **[English](#english) | [Português](#português)**
 
